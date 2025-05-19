@@ -1,0 +1,18 @@
+{
+  "name": "playwrigtnew2025",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:e2e": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.14.1",
+    "playwright": "^1.52.0"
+  }
+}
